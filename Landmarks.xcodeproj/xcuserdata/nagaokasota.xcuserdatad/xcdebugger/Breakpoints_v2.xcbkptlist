@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "805641D7-E9EB-435E-AE7F-D18C63A53B20"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LandmarksUITests/LandmarksUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - e19b408c2a59bd9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - 1255b00deff61bfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - 7b6166d42b173918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - d488951baf4f41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.init(selector: ObjectiveC.Selector) -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - 4cd872c5d629de5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.__allocating_init() -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - 74e5f6629739eead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.init() -&gt; LandmarksUITests.LandmarksUITests"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "FFA13B38-D1C8-426A-B70E-66A7D7B822E2 - 9e8d1e6f86402eec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksUITests.LandmarksUITests.__deallocating_deinit"
+                  moduleName = "LandmarksUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nagaokasota/practice/swift/Landmarks/LandmarksUITests/LandmarksUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
